@@ -3,7 +3,7 @@ The Cloud Resume Challenge is designed as a way for new learners of networks and
 
 This GitHub serves as part of the automation and source controlling aspect of my Cloud Resume Challenge attempt, but also serves as a retrospective on the whole process. For navigation purposes, it is broken up into three parts, the frontend (website), the backend API (visitor counter), and integration/automation (Terraforming, source controlling, and testing). They can be found here:
 
-**[Frontend] (https://github.com/Uyu2/Frontend)**
+**[Frontend](https://github.com/Uyu2/Frontend)**
 
 Backend
 
