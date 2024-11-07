@@ -8,5 +8,3 @@ This GitHub serves as part of the automation and source controlling aspect of my
 **[Backend](https://github.com/Uyu2/Backend)**
 
 Automation
-
-Thank you for looking into this repository, and I hope it is insightful!
